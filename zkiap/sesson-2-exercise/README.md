@@ -1,1 +1,2 @@
-https://hackmd.io/@gubsheep/S1Hz96Yqo
+exercise: https://hackmd.io/@gubsheep/S1Hz96Yqo
+IDE: https://zkrepl.dev/
